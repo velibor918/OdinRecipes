@@ -1,0 +1,62 @@
+*{
+    font-family:Arial, Helvetica, sans-serif
+}
+
+img{
+    height: auto;
+    width: auto;
+}
+
+a{
+    font-weight: 1000;
+}
+
+li{
+    font-size: 10px;
+    font-weight: 1;
+}
+
+/* Index Page */
+
+.srflag {
+    height: auto;
+    width: 500px;
+}
+
+/* Sarma */
+
+.sarma.pic{
+    height: auto;
+    width: 500px;
+}
+
+.sarma.par{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+     color:rgb(66, 224, 255);   
+     background-color:rgb(255, 179, 0);
+}
+
+/* Cevapi */
+
+.cevapi.pic{
+    height: auto;
+    width: 800px;
+}
+
+.cevapi.head{
+    font-size: 650px;
+    background-color: rgb(118, 13, 184);
+}
+
+/* Kajmak */ 
+
+.kajmak.pic{
+    height: auto;
+    width: 500px;
+}
+
+.kajmak.ordli{
+    background-color: black;
+    color: white;
+}
